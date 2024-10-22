@@ -9,6 +9,8 @@
 
 - 📄 Know about my experiences in [https://www.linkedin.com/in/daniel-pulgarin](https://www.linkedin.com/in/daniel-pulgarin)
 
+- 🌐 Check out my web page [https://www.pulga.xyz](https://www.pulga.xyz)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/daniel-pulgarin" target="_blank" style="text-decoration: none;">
